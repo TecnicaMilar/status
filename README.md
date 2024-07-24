@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.milar.farm): <!--live status--> **Todos los sistemas se encuentan operativos**
 
-This repository contains the open-source uptime monitor and status page for [Osdop](https://status.milar.farm), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Milar](https://status.milar.farm), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Osdop/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/Osdop/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Osdop/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Osdop/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
