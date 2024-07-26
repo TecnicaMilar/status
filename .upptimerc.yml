@@ -7,7 +7,7 @@ sites:
     url: https://milar.farm
     __dangerous__insecure: true
   - name: Sniper
-    url: https://sniper.milar.farm/login
+    url: https://-sniper.milar.farm/login
  
 
 status-website:
