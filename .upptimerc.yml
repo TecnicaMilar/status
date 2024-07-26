@@ -16,6 +16,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://milar.farm/wp-content/uploads/2021/06/Logo-Milar.png
   name: Milar
+  theme: dark
   introTitle: "**Status** Monitoreo de nuestras soluciones."
   introMessage: Pagina de monitoreo **real-time** del estado de nuestros servicios
   navbar:
@@ -23,6 +24,7 @@ status-website:
       href: /
     - title: Pagina Web
       href: https://milar.farm
+  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
