@@ -4,7 +4,7 @@
     "url": "https://milar.farm",
     "icon": "https://icons.duckduckgo.com/ip3/milar.farm.ico",
     "slug": "pagina-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
@@ -16,6 +16,7 @@
     "timeMonth": 5684,
     "timeYear": 5252,
     "dailyMinutesDown": {
+      "2024-09-01": 0,
       "2024-08-29": 21,
       "2024-08-23": 28,
       "2024-08-22": 21,
