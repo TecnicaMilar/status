@@ -1,7 +1,7 @@
 url: https://sniper.milar.farm/login
-status: up
-code: 200
-responseTime: 440
-lastUpdated: 2024-09-23T14:09:30.512Z
+status: down
+code: 503
+responseTime: 2277
+lastUpdated: 2024-09-23T17:41:12.979Z
 startTime: 2024-07-26T15:20:51.686Z
 generator: Upptime <https://github.com/upptime/upptime>
