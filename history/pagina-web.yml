@@ -1,7 +1,7 @@
 url: https://milar.farm
-status: up
-code: 200
-responseTime: 600
-lastUpdated: 2024-11-21T04:50:21.808Z
+status: down
+code: 500
+responseTime: 3023
+lastUpdated: 2024-11-21T05:00:01.482Z
 startTime: 2024-07-26T15:20:50.111Z
 generator: Upptime <https://github.com/upptime/upptime>
