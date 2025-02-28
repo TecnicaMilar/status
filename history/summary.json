@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/milar.farm.ico",
     "slug": "pagina-web",
     "status": "up",
-    "uptime": "94.03%",
+    "uptime": "94.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.03%",
+    "uptimeYear": "94.06%",
     "time": 2570,
     "timeDay": 1269,
     "timeWeek": 1279,
@@ -41,7 +41,7 @@
     "url": "https://sniper.milar.farm/login",
     "icon": "https://icons.duckduckgo.com/ip3/sniper.milar.farm.ico",
     "slug": "sniper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +53,7 @@
     "timeMonth": 353,
     "timeYear": 352,
     "dailyMinutesDown": {
+      "2025-02-28": 0,
       "2024-09-23": 32,
       "2024-07-26": 1
     }
