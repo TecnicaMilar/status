@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/milar.farm.ico",
     "slug": "pagina-web",
     "status": "up",
-    "uptime": "96.86%",
+    "uptime": "96.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "96.38%",
-    "time": 1954,
-    "timeDay": 1681,
-    "timeWeek": 1256,
-    "timeMonth": 1250,
+    "time": 1952,
+    "timeDay": 1133,
+    "timeWeek": 1240,
+    "timeMonth": 1246,
     "timeYear": 1377,
     "dailyMinutesDown": {
       "2025-09-09": 118,
@@ -56,13 +56,12 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 360,
-    "timeDay": 559,
-    "timeWeek": 406,
-    "timeMonth": 401,
-    "timeYear": 362,
+    "timeDay": 419,
+    "timeWeek": 377,
+    "timeMonth": 398,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2025-09-20": 30,
-      "2024-09-23": 32
+      "2025-09-20": 30
     }
   }
 ]
