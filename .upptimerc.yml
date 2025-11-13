@@ -6,6 +6,8 @@ sites:
   - name: Pagina Web
     url: https://milar.farm
     __dangerous__insecure: true
+    expectedStatusCodes:
+      - 415  
   - name: Sniper
     url: https://sniper.milar.farm/login
  
