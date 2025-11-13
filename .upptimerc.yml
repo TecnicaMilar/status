@@ -7,6 +7,8 @@ sites:
     url: https://milar.farm
     __dangerous__insecure: true
     expectedStatusCodes:
+      - 200
+      - 201
       - 415  
   - name: Sniper
     url: https://sniper.milar.farm/login
