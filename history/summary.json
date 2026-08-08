@@ -4,9 +4,9 @@
     "url": "https://milar.farm",
     "icon": "https://icons.duckduckgo.com/ip3/milar.farm.ico",
     "slug": "pagina-web",
-    "status": "up",
+    "status": "down",
     "uptime": "97.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
@@ -30,7 +30,8 @@
       "2026-06-12": 275,
       "2026-07-03": 921,
       "2026-07-02": 1440,
-      "2026-07-01": 181
+      "2026-07-01": 181,
+      "2026-08-08": 0
     }
   },
   {
