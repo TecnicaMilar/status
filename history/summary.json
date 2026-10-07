@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/milar.farm.ico",
     "slug": "pagina-web",
     "status": "down",
-    "uptime": "98.02%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "99.23%",
+    "uptime": "97.95%",
+    "uptimeDay": "42.18%",
+    "uptimeWeek": "91.74%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "99.07%",
     "time": 1363,
-    "timeDay": 1257,
-    "timeWeek": 1264,
-    "timeMonth": 1246,
+    "timeDay": 0,
+    "timeWeek": 1287,
+    "timeMonth": 1265,
     "timeYear": 1387,
     "dailyMinutesDown": {
       "2025-11-04": 30,
@@ -33,7 +33,8 @@
       "2026-08-08": 28,
       "2026-09-08": 268,
       "2026-09-28": 495,
-      "2026-10-06": 2
+      "2026-10-07": 323,
+      "2026-10-06": 510
     }
   },
   {
@@ -42,21 +43,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/sniper.milar.farm.ico",
     "slug": "sniper",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.70%",
+    "uptimeDay": "42.31%",
+    "uptimeWeek": "91.76%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "99.36%",
     "time": 386,
-    "timeDay": 333,
-    "timeWeek": 336,
-    "timeMonth": 303,
+    "timeDay": 0,
+    "timeWeek": 343,
+    "timeMonth": 310,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2026-07-03": 921,
       "2026-07-02": 1440,
       "2026-07-01": 179,
-      "2026-10-06": 0
+      "2026-10-07": 323,
+      "2026-10-06": 508
     }
   }
 ]
